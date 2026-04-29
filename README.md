@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhangnocode&label=Profile%20views&color=0e75b6&style=flat" alt="lhangnocode" /> </p>
 
-- 🌱 I’m currently learning **IT at University of Engineering and Technology, Vietnam National University, Hanoi (UET, VNU)**
+- 🌱 Bachelor’s degree in **Information Technology, UET, VNU** (2023–2027)
 
 - 📫 How to reach me **lhang18022005@gmail.com**
 
